@@ -1,0 +1,39 @@
+part 3 
+00:50 attach link of owl carousel cdn in part 4
+
+
+continue from 3:00 part 6
+
+16:53 attach mon and lato fonts from google 
+
+countdown js at 8:45 at part 7 
+countdown js @FagnerMartinsBrack
+
+            <div class="product_rating">
+                       <ul>
+                           <li>
+                               <a href="#">
+                                   <i class="fa fa-star" aria-hidden="true"></i>
+                               </a>
+
+                           </li>
+                           <li>
+                               <a href="#">
+                                   <i class="fa fa-star" aria-hidden="true"></i>
+                               </a>
+
+                           </li>
+                           <li>
+                               <a href="#">
+                                   <i class="fa fa-star" aria-hidden="true"></i>
+                               </a>
+
+                           </li>
+                           <li>
+                               <a href="#">
+                                   <i class="fa fa-star" aria-hidden="true"></i>
+                               </a>
+
+                           </li>
+                       </ul>
+                   </div>
